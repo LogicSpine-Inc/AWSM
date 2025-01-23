@@ -9,7 +9,9 @@ With AWMS, you can do things like:
 - Control your Android device’s screen on your browser.  
 - Install apps without transferring APK files manually.  
 - Send text input to your device.  
-- Use special Android keys (like **Home**, **Back**, and **Recent Apps**).  
+- Use special Android keys (like **Home**, **Back**, and **Recent Apps**).
+- AI Image / Illustrator generation.
+- Search for Images / Illustrator online.
 - And much more—all without needing extra software!  
 
 ---
@@ -33,6 +35,10 @@ With AWMS, you can do things like:
 ### 4. **Keyboard Input Made Easy**  
 - Use your computer’s keyboard to type directly on your phone.  
 - Send messages, fill forms, or do anything faster using `Ctrl + Alt + I`.  
+
+### 5. **Image creation and search made easy**
+- Search for unsplash or Illustrator image.
+- AI for creating images or Illustrator.
 
 ---
 
